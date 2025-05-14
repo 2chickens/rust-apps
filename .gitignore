@@ -1,0 +1,46 @@
+/target/
+**/target/
+!**/src/**/target/
+
+# === Build Artifacts ===
+**/*.rlib
+**/*.rmeta
+**/*.dSYM/
+**/*.o
+**/*.so
+**/*.a
+**/*.dll
+**/*.exe
+**/*.d
+
+# === Logs and debugging ===
+*.log
+
+# === Editor / IDE ===
+*.swp
+*.swo
+*.swn
+.idea/
+.vscode/
+*.code-workspace
+
+# === Mac OS ===
+.DS_Store
+
+# === Windows ===
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# === Linux ===
+*~
+
+# === Workspace-specific ===
+/**/node_modules/ 
+/.env
+.env
+.env.*
+
+
+/bin/
+/build/
