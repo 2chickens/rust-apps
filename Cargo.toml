@@ -1,2 +1,3 @@
 [workspace]
-members = ["apps/bin2dec"]
+resolver = "3"
+members = ["apps/bin2dec", "apps/csv2json"]
