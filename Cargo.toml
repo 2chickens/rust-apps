@@ -1,3 +1,9 @@
 [workspace]
 resolver = "3"
-members = ["apps/bin2dec", "apps/csv2json", "apps/notectl", "apps/quiz-app"]
+members = [
+  "apps/bin2dec",
+  "apps/csv2json",
+  "apps/notectl",
+  "apps/quiz-app",
+  "apps/json-editor",
+]
