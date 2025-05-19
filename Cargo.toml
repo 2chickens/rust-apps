@@ -5,5 +5,5 @@ members = [
   "apps/csv2json",
   "apps/notectl",
   "apps/quiz-app",
-  "apps/json-editor",
+  "apps/json-editor", "apps/rock_treasure_hunter",
 ]
