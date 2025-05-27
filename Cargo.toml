@@ -7,5 +7,5 @@ members = [
   "apps/quiz-app",
   "apps/json-editor",
   "apps/rock_treasure_hunter",
-  "apps/tomato_todo",
+  "apps/tomato_todo", "apps/background_process",
 ]
