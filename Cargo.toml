@@ -8,4 +8,5 @@ members = [
   "apps/json-editor",
   "apps/rock_treasure_hunter",
   "apps/tomato_todo",
+  "apps/ratatop",
 ]
